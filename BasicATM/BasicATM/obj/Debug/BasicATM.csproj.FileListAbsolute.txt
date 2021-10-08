@@ -1,0 +1,7 @@
+D:\Doctorat\Cours\Grasset - Programmation RV2\GIT\GrassetRV2-Cours6\BasicATM\BasicATM\bin\Debug\BasicATM.exe.config
+D:\Doctorat\Cours\Grasset - Programmation RV2\GIT\GrassetRV2-Cours6\BasicATM\BasicATM\bin\Debug\BasicATM.exe
+D:\Doctorat\Cours\Grasset - Programmation RV2\GIT\GrassetRV2-Cours6\BasicATM\BasicATM\bin\Debug\BasicATM.pdb
+D:\Doctorat\Cours\Grasset - Programmation RV2\GIT\GrassetRV2-Cours6\BasicATM\BasicATM\obj\Debug\BasicATM.csprojAssemblyReference.cache
+D:\Doctorat\Cours\Grasset - Programmation RV2\GIT\GrassetRV2-Cours6\BasicATM\BasicATM\obj\Debug\BasicATM.csproj.CoreCompileInputs.cache
+D:\Doctorat\Cours\Grasset - Programmation RV2\GIT\GrassetRV2-Cours6\BasicATM\BasicATM\obj\Debug\BasicATM.exe
+D:\Doctorat\Cours\Grasset - Programmation RV2\GIT\GrassetRV2-Cours6\BasicATM\BasicATM\obj\Debug\BasicATM.pdb
